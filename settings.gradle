@@ -1,0 +1,5 @@
+rootProject.name = 'lab6.1'
+include 'common'
+include 'server'
+include 'console'
+

@@ -1,0 +1,22 @@
+2022-05-30 19:46:07,118 INFO Launcher [main] Starting server on localport/<unresolved>:65100
+2022-05-30 19:51:12,730 INFO Launcher [main] Starting server on localport/<unresolved>:65100
+2022-05-30 19:53:15,811 INFO Launcher [main] Starting server on localhost/127.0.0.1:65100
+2022-05-30 19:59:45,384 INFO Launcher [main] Starting server on localhost/127.0.0.1:65100
+2022-05-30 20:44:24,305 INFO Launcher [main] Starting server on localhost/127.0.0.1:65100
+2022-05-30 20:57:33,784 INFO Launcher [main] Starting server on localhost/127.0.0.1:65100
+2022-05-30 21:12:34,208 INFO Launcher [main] Starting server on localhost/127.0.0.1:65100
+2022-05-30 21:12:54,720 INFO Launcher [main] Starting server on localhost/127.0.0.1:65100
+2022-05-30 21:14:27,830 INFO Launcher [main] Connected to /127.0.0.1:62065
+2022-05-30 21:14:27,994 INFO Launcher [main] Sending response...
+2022-05-30 21:14:27,995 INFO Launcher [main] Packages number: 1
+2022-05-30 21:14:27,995 INFO Launcher [main] Disconnecting from /127.0.0.1:62065
+2022-05-30 21:14:45,982 INFO Launcher [main] Connected to /127.0.0.1:62078
+2022-05-30 21:14:46,016 INFO Launcher [main] Sending response...
+2022-05-30 21:14:46,016 INFO Launcher [main] Packages number: 1
+2022-05-30 21:14:46,017 INFO Launcher [main] Disconnecting from /127.0.0.1:62078
+2022-05-30 21:15:01,114 INFO Launcher [main] Connected to /127.0.0.1:62079
+2022-05-30 21:15:01,116 INFO Launcher [main] Sending response...
+2022-05-30 21:15:01,117 INFO Launcher [main] Packages number: 1
+2022-05-30 21:15:01,117 INFO Launcher [main] Disconnecting from /127.0.0.1:62079
+2022-05-30 21:15:01,117 INFO Launcher [main] Closing channel...
+2022-05-30 21:15:01,117 INFO Launcher [main] Server is stopped

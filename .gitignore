@@ -1,0 +1,10 @@
+./gradlew
+./gradlew.bat
+# Project exclude paths
+/.gradle/
+/common/build/
+/common/build/classes/java/main/
+/console/build/
+/console/build/classes/java/main/
+/server/build/
+/server/build/classes/java/main/
